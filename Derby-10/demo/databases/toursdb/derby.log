@@ -1,0 +1,14 @@
+Sun Jun 07 21:49:11 CEST 2020 : Servidor de red Apache Derby: Se ha iniciado 10.14.2.0 - (1828579) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Sun Jun 07 21:49:22 CEST 2020:
+ Iniciando instancia a816c00e-0172-9054-6d54-0000000eec34 de Derby, versión The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): 
+en el directorio de base de datos D:\DAM\AD\Tareas\Tarea1\ADTarea1\Derby-10\demo\databases\toursdb\sample con el cargador de clases sun.misc.Launcher$AppClassLoader@1d44bcfa
+Cargado desde file:/D:/DAM/AD/Tareas/Tarea1/ADTarea1/Derby-10/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=D:\DAM\AD\Tareas\Tarea1\ADTarea1\Derby-10
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=D:\DAM\AD\Tareas\Tarea1\ADTarea1\Derby-10\demo\databases\toursdb
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
