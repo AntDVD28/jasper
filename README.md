@@ -1,6 +1,8 @@
 # jasper
 Realizar un pequeño informe con la librería JasperReport sobre la BD Apache Derby.
 
+Trabajo correspondiente a la asignatura AD (Acceso a Datos) perteneciente a la titulación de Técnico Superior en el Desarrollo de aplicaciones multiplataformas.
+
 Apache Derby es una Base de Datos Relacional Open Source escrita completamente en Java. Derby nos ofrece un motor de bases de datos basado en estándares de tamaño reducido y que puede integrarse perfectamente en cualquier solución basada en Java. Dicha base de datos venía incluida anteriormente en el JDK.
 
 La versión que utilicé del JDK es la 1.8, la cual no incluye dicha BD por lo que tendremos que proceder a realizar su instalación.
